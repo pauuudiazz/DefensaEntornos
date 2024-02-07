@@ -12,7 +12,13 @@ package paula.trabajonetbeansgithub;
  */
 public class TrabajoNetbeansGithub {
     public static void main(String[] args) {
-   
+   /*gasdgajsdgasgdadjgsjdajsd
+       *sadasdasdas
+       *sadasdasdas
+       *sadasdasdas
+       *sadasdasdas
+       *sadasdasdas
+       */
        int k = 0;
 do {
 System.out.println("Iteración do-while: " + k);
